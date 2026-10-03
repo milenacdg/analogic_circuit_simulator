@@ -6,10 +6,7 @@ Implementation of a library for designing an analogical circuit and solving its 
 Aurélie, Enzo, Miléna
 
 ## Documents
-The rapport is available on the following link :
-
-
-The presentation is available by clicking on this link :
+ ### A detailled paper about the project is available on the following link :
 https://github.com/milenacdg/analogic_circuit_simulator/blob/main/livrables/rapport/rapport.pdf
 
 
