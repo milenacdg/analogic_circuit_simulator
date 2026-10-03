@@ -10,7 +10,7 @@ The rapport is available on the following link :
 
 
 The presentation is available by clicking on this link :
-https://github.com/milenacdg/analogic_circuit_simulator/blob/main/livrables/presentation/main.pdf
+https://github.com/milenacdg/analogic_circuit_simulator/blob/main/livrables/rapport/rapport.pdf
 
 
 ## Context
